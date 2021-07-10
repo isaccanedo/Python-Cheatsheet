@@ -450,19 +450,3 @@ My Python Articles
 3. [How To Extract Text From Images Using Tesseract OCR Engine and Python](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 4. [How to Connect to a PostgreSQL Database With a Python Serverless Function](https://towardsdatascience.com/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475)
 5. [How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0)
-
-Books and other resources
-============
-1. TODO
-
-Bug Reports and Feature Requests
-============
-Please create an issue with as much information you can. Thank you.
-
-Author
-============
-Mahbub Zaman (https://mahbub.ninja)
-
-License
-============
-MIT License
